@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kuzu2000.github.io/csb-o3rcb/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://kuzu2000.github.io/csb-o3rcb/static/js/main.b288b62c.chunk.js",
+    "main.js.map": "https://kuzu2000.github.io/csb-o3rcb/static/js/main.b288b62c.chunk.js.map",
+    "runtime-main.js": "https://kuzu2000.github.io/csb-o3rcb/static/js/runtime-main.9cb259e2.js",
+    "runtime-main.js.map": "https://kuzu2000.github.io/csb-o3rcb/static/js/runtime-main.9cb259e2.js.map",
+    "static/js/2.ddce9bf0.chunk.js": "https://kuzu2000.github.io/csb-o3rcb/static/js/2.ddce9bf0.chunk.js",
+    "static/js/2.ddce9bf0.chunk.js.map": "https://kuzu2000.github.io/csb-o3rcb/static/js/2.ddce9bf0.chunk.js.map",
+    "index.html": "https://kuzu2000.github.io/csb-o3rcb/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://kuzu2000.github.io/csb-o3rcb/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ddce9bf0.chunk.js.LICENSE.txt": "https://kuzu2000.github.io/csb-o3rcb/static/js/2.ddce9bf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cb259e2.js",
+    "static/js/2.ddce9bf0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b288b62c.chunk.js"
+  ]
+}
